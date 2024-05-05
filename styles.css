@@ -1,0 +1,170 @@
+/* Reset default margin and padding */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container to center content */
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Navigation styles */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Section styles */
+section {
+    padding: 40px 0;
+}
+
+/* Home */
+#HOME h2 {
+    color: #333;
+}
+
+#Home p {
+    color: #666;
+}
+
+/* WhO WE ARE section styles */
+#who-we-are h2 {
+    color: #333;
+}
+
+#who we are h3 {
+    color: #666;
+}
+
+#who we are p {
+    color: #777;
+}
+
+/* History section styles */
+#History h2 {
+    color: #333;
+}
+
+#History p {
+    color: #666;
+}
+
+/* Footer styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+/* Logo styles */
+header img {
+    width: 150px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    display: inline-block; /* Align the logo inline with the navigation */
+    vertical-align: middle; /* Align the logo vertically within the header */
+}
+
+/* Reset default margin and padding */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Container to center content */
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+}
+
+/* Logo container styles */
+.logo-container {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+/* Logo styles */
+.logo-container img {
+    width: 150px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
+    vertical-align: middle;
+}
+
+/* Text next to logo styles */
+.logo-container p {
+    display: inline-block;
+    margin-left: 10px; /* Adjust the spacing between logo and text */
+    font-size: 16px; /* Adjust the font size as needed */
+    font-weight: bold; /* Make the text bold */
+    vertical-align: middle;
+}
+
+/* Navigation styles */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* Other styles for your website */
+
+/* Header styles */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 20px 20px 40px; /* Adjust the padding as needed */
+}
+
+git push origin main
